@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+        <title>Spacer a ThreeJS Game</title>
+        <link rel="stylesheet" href="css/spacer-rendoru.css">
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+    </head>
+    <body>
+        <canvas id="main_canvas">Looks like your browser doesn't support HTML5</canvas>
+        <div id="main_canvas"></div>
+        <div id="main_menu" class="menu">
+            <div id="main_score">
+                Highscore 0.0
+            </div>
+            <div id="main_control">
+                <h1 id="main_title">SpaceR
+                    <button id="play_btn" class="transitioned">Play</button>
+                </h1>
+                <button id="switch_btn" class="transitioned">Switch Color</button>
+            </div>
+            <div id="main_credit">
+                Author: Firman Maulana (Rendoru)
+            </div>
+        </div>
+        <div id="gameplay_menu" class="menu">
+            <div id="play_score">
+                0
+            </div>
+        </div>
+        <div id="loader" class="transitioned">
+            <div id="loader_title">
+                <div>SpaceR</div>
+                <p>By <a href="https://rendoru.com">Rendoru</a></p>
+            </div>
+            <div id="label">Loading</div>
+        </div>
+    </body>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/three.min.js"></script>
+    <script src="js/inflate.min.js"></script>
+    <script src="js/FBXLoader.js"></script>
+    <script src="js/spacer.driver.js"></script>
+</html>
