@@ -17,4 +17,4 @@ Here is some screenshot for you :D
 ![Alt text](screenshot/Screenshot_1_Spacer_Rendoru.png?raw=true "SpaceR Screenshot 1")
 ![Alt text](screenshot/Screenshot_2_Spacer_Rendoru.png?raw=true "SpaceR Screenshot 2")
 ![Alt text](screenshot/Screenshot_3_Spacer_Rendoru.png?raw=true "SpaceR Screenshot 3")
-![Alt text](screenshot/Screenshot_3_Spacer_Rendoru.png?raw=true "SpaceR Screenshot 4")
+![Alt text](screenshot/Screenshot_4_Spacer_Rendoru.png?raw=true "SpaceR Screenshot 4")
